@@ -1,9 +1,8 @@
-### Hi I'm Alvin Jay U. Teniola, 26, Filipino.
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
+<a href=#><img src="contributions.svg"></a>
 
-
-
-### Educational Background
-* Bachelor of Science in Information Systems - https://snsu.edu.ph 
-
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
